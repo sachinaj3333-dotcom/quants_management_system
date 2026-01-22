@@ -1,0 +1,50 @@
+.login {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.formcontrol{
+      border: none !important;
+      border-bottom: 2px solid #ccc !important;
+      border-radius: 0 !important;
+      padding-left: 35px !important;
+      box-shadow: none !important;
+    }
+
+    .formcontrol:focus{
+      border-bottom-color: #1B91D5 !important;
+      box-shadow: none !important;
+    }
+
+    .inputicon{
+      position: absolute !important;
+      top: 50% !important;
+      left: 10px !important;
+      transform: translateY(-50%) !important;
+      color: #999 !important;
+    }
+
+
+    .formgroup{
+      position: relative !important;
+      margin-bottom: 25px !important;
+    }
+
+    .login_btn{
+      background-color: #1B91D5 !important;
+      color: white !important;
+      border: none !important;
+      padding: 10px !important;
+      border-radius: 5px !important;
+      font-size: 16px !important;
+    }
+
+    .login_btn:hover{
+      background-color: #0d6efd !important;
+      color: white !important;
+    }
+
+    .text{
+        font-size: small;
+    }
