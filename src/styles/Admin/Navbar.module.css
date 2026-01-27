@@ -1,10 +1,11 @@
 .toggle_btn {
     background-color: #FFEB32;
+    cursor: pointer;
 }
 
 .navbar {
     background-color: #1b91d5;
-    height: 66px;
+    height: 76px;
 }
 
 .search_input{
@@ -19,4 +20,21 @@
     outline: none;
     color: #101332;
     width: 17rem;
+}
+
+.profile_image {
+    border-radius: 50%;
+    /* border: 1px solid black; */
+
+}
+
+.small_profile{
+    background-color: #FFEB32;
+    height: 100%;
+}
+
+.profile_name{
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
 }

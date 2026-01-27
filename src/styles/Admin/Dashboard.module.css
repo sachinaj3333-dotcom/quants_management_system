@@ -1,0 +1,9 @@
+.header {
+    height: 66px;
+    box-shadow: 20px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.headername {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}

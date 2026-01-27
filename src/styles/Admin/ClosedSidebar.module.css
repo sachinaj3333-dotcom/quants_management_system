@@ -1,32 +1,25 @@
-.logo {
+.closedlogo {
     border-radius: 50%;
 }
 
-.sidebar_nav{
+.closed_sidebar_nav{
     height: 76px;
     background-color: #1B91D5;
 }
 
-.institute_name{
-    font-size: 1.1rem;
-    color: white;
-    font-weight: bold;
-    font-family: sans-serif;
-}
-
-.sidebar_body{
+.closed_sidebar_body{
     background-color: #1B91D5;
     height: calc(100vh - 76px);
     padding: 20px 0 0 0;
     overflow: auto;
 }
 
-.sidebar_ul{
+.closed_sidebar_ul{
     list-style: none;
     padding: 0;
 }
 
-.sidebar_li{
+.closed_sidebar_li{
     color: white;
     padding: 10px;
     margin: 15px 0;
@@ -35,7 +28,7 @@
     font-weight: 600;
 }
 
-.sidebar_li:hover{
+.closed_sidebar_li:hover{
     background-color: #FFEB32;
     color: black;
     cursor: pointer;
