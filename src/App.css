@@ -1,3 +1,18 @@
 a {
     text-decoration: none !important;
 }
+
+.closesidebarcss {
+    width: 5vw !important;
+    transition: width 0.5s ease !important;
+}
+
+.opensidebarcss {
+    width: calc(100vw - 5vw) !important;
+    transition: width 0.5s ease !important;
+}
+
+.transitioncss {
+    overflow-x: hidden !important;
+    transition: all 0.5s ease !important;
+}
